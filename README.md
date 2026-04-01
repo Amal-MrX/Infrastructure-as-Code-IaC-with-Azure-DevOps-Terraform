@@ -1,1 +1,1 @@
-![Diagram](./doc/flowchart.svg)
+![Diagram](./.doc/flowchart.svg)
